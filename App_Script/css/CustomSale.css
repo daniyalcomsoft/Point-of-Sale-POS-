@@ -1,0 +1,157 @@
+﻿        .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 0px;
+    line-height: 1.5;
+    vertical-align: middle;
+   
+}
+        .form-group {
+    margin-bottom: 2px;
+}
+        .padding-30 {
+     padding: 6px!important; 
+}
+.table>tbody>tr>td{  
+    padding-left: 4px;
+    line-height: 1.5;
+    vertical-align: middle;
+   
+}
+          .form-control {
+              height:30px!important;
+                text-align: left!important;
+          }
+
+
+          .btn-primary{
+              height:30px;
+              padding-top: 4px;
+          }
+
+         td{
+             padding-bottom:0px !important;
+              height:10px !important;
+         }
+          
+          .icon_custom {
+              font-size: 18px;
+              line-height:0;
+          }
+
+      
+
+     
+.control-label
+{
+    margin-bottom:0px;
+}
+
+.btn-group, .btn-group-vertical {
+   
+    box-shadow: none;
+}
+.items 
+          {
+              display: flex;
+              overflow-x: auto;
+             
+          }
+
+          .items .item
+          {              
+              padding: 2px;
+              margin: 0px;
+             
+          }
+
+          .mgbot-10
+          {
+              margin-bottom:10px;
+          }
+          .tbitem
+          {
+             width: 80px;
+             height:auto;
+          }
+
+          .bootstrap-select.form-control:not([class*=col-]) {
+    width: 50%!important;
+    margin-top: 15px;
+}
+
+          .tbitem img{    
+   height:35px
+}
+         
+
+
+
+              .labelclass
+        {
+            font-size: small;            
+            font-family:Roboto,sans-serif !important;
+            /*background-color: #3498db;
+            color: white;*/
+            padding: 5px;
+            font-weight:bold;
+        }
+
+        .chkclass{
+            /*font-size: small;
+            margin: 0px;
+            font-family:Roboto,sans-serif !important;*/            
+                       
+            
+        }
+        .chkclass input{
+            height: 13px;
+            width: 13px;    
+                               
+        }
+
+        .chkclass label
+        {
+            margin-left: 5px;
+            font-size: 13px;
+        }        
+        .Qty{
+            border: 1px solid #3498db;
+            float: left;
+            margin-left: 10px;           
+            border-radius: 5px;           
+            border-color: #3498db ;
+            height: 35px;           
+        }
+        .exitandsave{
+            float: right;
+        }
+
+        .CusBUtton{
+            height:35px !important;
+            margin-top:-35px;
+            width:18%;
+        }
+         .selectbtn
+         {
+             border-top: 6px solid #212121 !important;
+             background-color:#26c6da;
+             font-weight:bold;          
+             padding-top: 2px;
+
+         }
+         .mgtop4{
+                 margin-top: 4px!important;
+         }
+
+          .mgtop6{
+                 margin-top: 6px!important;
+
+         }
+          .pd04{
+              padding-top:4px;
+            
+          }
+         
+   .pd02{
+              padding-top:2px;
+            
+          }

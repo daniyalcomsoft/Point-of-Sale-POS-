@@ -1,0 +1,27 @@
+﻿
+.input-group {
+  clear: both;
+  position: relative;
+}
+
+
+.input-group .button-minus
+ {
+  height: 39px;
+    float: left;
+    width: 50px;
+}
+
+.input-group .button-plus
+ {
+     height: 39px;
+    width: 50px;
+    left: -13px;
+}
+
+.input-group .form-control
+ {
+    width: 137px;
+    height: 39px;
+    text-align: center;
+}
